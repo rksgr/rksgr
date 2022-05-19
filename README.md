@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rksgr
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Website development
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 My email Id: r_kjha@yahoo.com
 
