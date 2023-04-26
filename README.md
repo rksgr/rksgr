@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rksgr
 - 👀 I’m interested in software development
-- 💞️ I’m looking to collaborate on Java projects
+- 💞️ I’m looking to collaborate on Angular projects
 - 📫 My email Id: r_kjha@yahoo.com
 
 <!---
